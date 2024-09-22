@@ -1,8 +1,9 @@
 ## Hi there 👋 This is my college account
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgardooandres&size_weight=0.5&count_weight=0.5&hide_progress=true&theme=chartreuse-dark#gh-dark-mode-only)
+
 [![Eggies's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=edgardooandres&include_all_commits=true&show_icons=true&theme=chartreuse-dark#gh-dark-mode-only)](https://github.com/edgardooandres/github-readme-stats#gh-dark-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgardooandres&size_weight=0.5&count_weight=0.5&hide_progress=true&theme=chartreuse-dark#gh-dark-mode-only)
 <!--
 **EdgardooAndres/EdgardooAndres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
